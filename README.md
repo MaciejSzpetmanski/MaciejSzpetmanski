@@ -7,14 +7,9 @@
 -->
 # Maciej Szpetmański
 
-<table>
 
-  <colgroup>
-    <col width="70%">
-    <col width="30%">
-  </colgroup>
-  
-<td>
+
+<div align="left", width="30%">
 
 ### About Me    
  - ♠️ I bring a solid background in **Data Science**, **Machine Learning**, and **AI**,
@@ -27,8 +22,9 @@ seeking out innovative techniques to aquire actionable insights from diverse dat
 and drive real-world impact. Whenever possible, I enjoy collaborating on open-source projects
 and sharing knowledge with the broader tech community.
   
-</td>
-<td>
+</div>
+
+<div>
 
 ## What I'm currently using
 
@@ -99,8 +95,7 @@ and sharing knowledge with the broader tech community.
 [<img align="left" width="40" height="40" alt="Ruby" src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" style="padding: 0 20px 16px 0">](https://www.ruby-lang.org "Ruby")
 [<img align="left" width="40" height="40" alt="Rust" src="https://api.iconify.design/vscode-icons:file-type-cpp.svg" style="padding: 0 20px 16px 0">](https://www.cplusplus.com "C++")
 
-</td>
-</table>
+</div>
 
 <div align="center"> 
 
