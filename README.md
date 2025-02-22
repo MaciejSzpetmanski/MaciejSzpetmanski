@@ -10,8 +10,8 @@
 <table>
 
   <colgroup>
-    <col width="30%">
     <col width="70%">
+    <col width="30%">
   </colgroup>
   
 <td>
