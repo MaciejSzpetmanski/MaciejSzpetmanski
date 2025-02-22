@@ -7,7 +7,7 @@
 -->
 # Maciej Szpetmański
 
-<table>
+<table style="width:100%;">
 <td style="width:30%; vertical-align: top;">
 
 ### About Me    
