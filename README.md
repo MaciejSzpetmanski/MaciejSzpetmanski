@@ -8,7 +8,7 @@
 # Maciej Szpetmański
 
 <table>
-<td>
+<td style="width:30%; vertical-align: top;">
 
 ### About Me    
  - ♠️ I bring a solid background in **Data Science**, **Machine Learning**, and **AI**, coupled with a deep interest in leveraging advanced **statistical methodologies** to tackle challenging problems.
@@ -17,7 +17,7 @@
  - ♣️ I’m passionate about crafting **data-driven** solutions that cut through complexity and drive real-world impact. Whenever possible, I enjoy collaborating on open-source projects and sharing knowledge with the broader tech community.
   
 </td>
-<td>
+<td style="vertical-align: top;">
 
 ## What I'm currently using
 
