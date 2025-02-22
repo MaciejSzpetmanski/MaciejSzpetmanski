@@ -33,7 +33,7 @@
 [<img align="left" width="40" height="40" alt="CSS" src="https://api.iconify.design/devicon:python.svg" style="padding: 0 20px 16px 0">]((https://en.wikipedia.org/wiki/Python_(programming_language)) "Python")
 [<img align="left" width="40" height="40" alt="CSS" src="https://api.iconify.design/devicon:rstudio.svg" style="padding: 0 20px 16px 0">]((https://en.wikipedia.org/wiki/R_(programming_language)) "R")
 
-<br>
+
 <img 
   src="https://img.shields.io/badge/Technologies-%231f2937"
   width="160"
@@ -58,7 +58,7 @@
   [<img width="40" height="40" alt="Kotlin" src="https://api.iconify.design/devicon:kotlin.svg" style="padding: 0 20px 16px 0">](https://kotlinlang.org "Kotlin")
   [<img width="40" height="40" alt="Kotlin" src="https://api.iconify.design/devicon:solidity.svg" style="padding: 0 20px 16px 0">](https://solidity.org "Solidity")
 
-<br>
+
 <img 
   src="https://img.shields.io/badge/Technologies-%231f2937"
   width="160"
