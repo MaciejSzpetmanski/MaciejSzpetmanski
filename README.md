@@ -9,17 +9,13 @@
 
 
 
-<div align="left">
-
 ### About Me    
  - ♠️ I bring a solid background in **Data Science**, **Machine Learning**, and **AI**,coupled with a deep interest in leveraging advanced **statistical methodologies** to tackle challenging problems.
  - ♥️ I’m intrigued by how **AI** and **mathematical statistics** converge,and I love exploring the unorthodox ways these fields can reinforce each other.
  - ♦️ I stay curious and constantly experiment with new frameworks,seeking out innovative techniques to aquire actionable insights from diverse datasets.
  - ♣️ I’m passionate about crafting **data-driven** solutions that cut through complexityand drive real-world impact. Whenever possible, I enjoy collaborating on open-source projectsand sharing knowledge with the broader tech community.
   
-</div>
 
-<div align="left">
 
 ## What I'm currently using
 
@@ -90,7 +86,6 @@
 [<img align="left" width="40" height="40" alt="Ruby" src="https://api.iconify.design/vscode-icons:file-type-ruby.svg" style="padding: 0 20px 16px 0">](https://www.ruby-lang.org "Ruby")
 [<img align="left" width="40" height="40" alt="Rust" src="https://api.iconify.design/vscode-icons:file-type-cpp.svg" style="padding: 0 20px 16px 0">](https://www.cplusplus.com "C++")
 
-</div>
 
 <div align="center"> 
 
