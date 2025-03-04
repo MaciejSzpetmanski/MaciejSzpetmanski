@@ -1,10 +1,8 @@
-<!--
 <div align="center">
 
-[<img width="1024" alt="Train GIF" src="./assets/baner.gif">](https://www.newgrounds.com/art/view/alexthetrain-1/i-like-trains)
-
+[<img width="1024" alt="japan gif" src="./assets/baner.gif">]
 </div>
--->
+
 # Maciej Szpetmański
 
 
