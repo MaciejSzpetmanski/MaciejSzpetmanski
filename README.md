@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img width="1024" alt="japan gif" src="./assets/baner.gif">]
+<img width="1024" alt="japan gif" src="./assets/baner.gif">
 </div>
 
 # Maciej Szpetmański
